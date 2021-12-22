@@ -13,5 +13,5 @@ Mattermost channel: [O2-DQ Analysis Framework Alpha](https://mattermost.web.cern
 
 ## Code
 
-* Tasks used by the heavy-flavour analysis framework are in the
+* Tasks used by the DQ analysis framework are in the
 [`PWGDQ`](https://github.com/AliceO2Group/O2Physics/tree/master/PWGDQ) directory.
